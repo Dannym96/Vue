@@ -5,7 +5,6 @@
  */
 
 
-
 //$("#card").flip();
 
   $("#card").flip({

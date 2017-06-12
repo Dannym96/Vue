@@ -1,4 +1,4 @@
-$(document).ready(function () {
+ $(document).ready(function () {
     $('#datatable').DataTable({
         "order": [[ 0, 'asc' ]],
         dom: 'Bfrtip',
